@@ -21,3 +21,4 @@ The flowchart of the program shows the sequence of actions taken by the nodes. N
 
 ![p1](https://user-images.githubusercontent.com/118085323/219509843-4bc8cf85-56fc-4c61-be61-9effedc5aa0d.png)
 
+![p2](https://user-images.githubusercontent.com/118085323/219509973-06f81023-90b1-4c51-872b-6238f75c77a4.png)
