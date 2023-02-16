@@ -18,3 +18,6 @@ To run the program, first build the world by inserting "catkin_make", then launc
 
 # The Flowchart Of the Program:
 The flowchart of the program shows the sequence of actions taken by the nodes. Node (a) retrieves user input and sets a goal, which is then passed to node (b) to calculate the average speed and distance. Node (c) counts the number of goals reached and canceled.
+
+![p1](https://user-images.githubusercontent.com/118085323/219509843-4bc8cf85-56fc-4c61-be61-9effedc5aa0d.png)
+
